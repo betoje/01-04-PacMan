@@ -1,0 +1,17 @@
+html, body {
+  margin:0;
+  padding:0;
+}
+
+#area {
+  margin: 50px;
+  width: 800px;
+  height: 600px;
+  border: 1px solid black;
+  background-color: lightgrey;
+}
+
+#pac-man {
+  padding: 20;
+  position: relative
+}
